@@ -1,1 +1,3 @@
-# Challenges-Week-4
+![Revature Logo](./Revature%20Logo.png "Revature Logo")
+
+# Challenges Week 4
